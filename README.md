@@ -20,6 +20,7 @@
     - Criar novas viagens
     - Excluir viagens
     - Aprovar ou recusar candidaturas
+    - Criar novos usuários administradores
     
 ## Deploy da Aplicação com Surge: :dash:
 
