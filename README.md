@@ -23,7 +23,7 @@
     
 ## Deploy da Aplicação com Surge: :dash:
 
-> http://gospace.surge.sh/
+> http://labex-diegom.surge.sh
 <p>Acesso a área adm</p>
 <p>Usuário: diego@gmail.com</p>
 <p>senha: 123456</p>
