@@ -12,9 +12,8 @@
 <p align="justify">O projeto consiste em comunicação com APIs externas que foram elaboradas pelos professores da escola.</p>
 
 ### O que a aplicação é capaz de fazer :checkered_flag:
-- Como usuário: :ok_woman:
-    - Olhar todas as viagens vigentes 
-    - Candidatar-se para viagens, preenchendo formulário
+- Como visitante: :ok_woman:
+    - Candidatar-se para viagens existente, preenchendo um formulário.
     
 - Como administrador: :cop:
     - Criar novas viagens
